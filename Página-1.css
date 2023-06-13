@@ -1,0 +1,271 @@
+ .u-section-1 {
+  background-image: url("images/Ilumine_o_padro_de_vidro_-_Cidades_Photo_HD_WallpaperPapeldeparede__1920x108010wallpaper.com.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 789px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 18px 0 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 183px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 27px auto 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 224px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 35px auto 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 196px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 9px auto 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 9px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 603px;
+  background-image: url("images/WhatsAppImage2023-06-12at16.35.561.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-5 {
+  min-height: 216px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 30px 65px 0 84px;
+}
+
+.u-section-1 .u-layout-cell-6 {
+  min-height: 207px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 3px 30px;
+}
+
+.u-section-1 .u-text-9 {
+  margin: 27px auto 0;
+}
+
+.u-section-1 .u-text-10 {
+  margin: 33px 0 0 12px;
+}
+
+.u-section-1 .u-layout-cell-7 {
+  min-height: 180px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-7 {
+  padding: 25px 30px;
+}
+
+.u-section-1 .u-text-11 {
+  margin: 0 auto 0 69px;
+}
+
+.u-section-1 .u-text-12 {
+  margin: 7px auto 0 47px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 546px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 151px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 185px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 162px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 497px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-text-8 {
+    width: 146px;
+    margin-left: 50px;
+    margin-right: 32px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 171px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-right: 12px;
+  }
+
+  .u-section-1 .u-layout-cell-7 {
+    min-height: 148px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 571px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-7 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1205px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 10px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-right: 10px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-right: 10px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 857px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-right: 10px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-right: 10px;
+    padding-left: 0;
+  }
+
+  .u-section-1 .u-container-layout-7 {
+    padding-right: 10px;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 888px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 540px;
+  }
+}
